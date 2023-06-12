@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **idanrahamimov@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-9SI1AD_L-O2_uiQ839gDgAhTN8-V4vi/view?usp=sharing](https://drive.google.com/file/d/1-9SI1AD_L-O2_uiQ839gDgAhTN8-V4vi/view?usp=sharing)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1055gtt073cW1U2WXQDr15cq3SlGqQ_JTqRw9k5kqCaM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
