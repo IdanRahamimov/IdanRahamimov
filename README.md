@@ -7,6 +7,8 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1D_UnkbO2yKYxtF7P4esGzJpCV97vG-d-/view?usp=sharing)
 
+- 📘 Check My [Tableau Public](https://public.tableau.com/app/profile/idan.rahamimov1873)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/idan-rahamimov-7a8720216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/idan-rahamimov-7a8720216/" height="30" width="40" /></a>
