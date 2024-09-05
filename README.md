@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **idanrahamimov@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1D_UnkbO2yKYxtF7P4esGzJpCV97vG-d-/view?usp=sharing)
-
 - 📘 Check My [Tableau Public](https://public.tableau.com/app/profile/idan.rahamimov1873)
 
 <h3 align="left">Connect with me:</h3>
